@@ -1,6 +1,6 @@
-# Tarea 3 - Análisis de Redes: Congreso del Perú
+# Tarea 3 - Análisis de Redes: Congresistas del Perú (semana de representación)
 
-Este repositorio contiene un análisis de redes sobre el Congreso del Perú, centrado en dos bancadas principales: Fuerza Popular (FP) y Perú Libre (PL). Utilizando métricas de centralidad y conectividad, hemos aplicado conceptos de teoría de grafos para comprender mejor las relaciones y la importancia de distintos nodos (congresistas) dentro de las redes de cada bancada.
+Este repositorio contiene un análisis de redes sobre el Congreso del Perú, centrado en dos bancadas principales: Fuerza Popular (FP) y Perú Libre (PL). Utilizando métricas de centralidad y conectividad, hemos aplicado conceptos de teoría de grafos para comprender mejor las relaciones y la importancia de distintos nodos (congresistas) dentro de las redes de cada bancada. Todo basado en los lugares visitados según los informes de la semana de representación presentados en la página web del Congreso de la República del Perú durante periodo 2023 - 2024.
 
 ## Descripción del Análisis
 
@@ -30,7 +30,7 @@ El análisis se ha dividido en los siguientes apartados:
 
 ## Fuentes de Datos
 
-Los datos fueron obtenidos a partir de información pública del Congreso del Perú y de la organización Transparencia Perú.
+Los datos fueron obtenidos a partir de información pública del Congreso del Perú y de la organización Transparencia Perú. En el presente trabajo se utilizó la base de datos de Transparencia Perú, que incluye los nombres de todos los congresistas de la República correspondiente al año congresal 2023-2024, así como los lugares visitados según los informes de la semana de representación presentados en la página web del Congreso de la República del Perú durante dicho periodo. Es importante señalar que la base de datos presenta vacíos, por lo que se trabajó con un total de 94 congresistas de los 130.
 
 ## Diccionario de Datos
 
